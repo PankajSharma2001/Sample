@@ -1,0 +1,13 @@
+.container{
+    background-color: azure;
+    color: black;
+    width: 100%;
+}
+.heading{
+  background-color: black;
+  color: bisque;
+  text-align: center;  
+}
+.table{
+  text-align: center;
+}
